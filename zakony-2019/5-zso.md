@@ -1,0 +1,8 @@
+# «О порядке регистрации соглашений о приграничном сотрудничестве муниципальных образований Саратовской области»
+Document type: Закон
+Number: 5-ЗСО
+Date signed: 2019-02-05
+Publication date: 2019-02-11
+Publication number: 6400201902110009
+Signing body: Саратовская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/6400201902110009

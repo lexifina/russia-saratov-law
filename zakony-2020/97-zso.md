@@ -1,0 +1,8 @@
+# «О внесении изменений в некоторые законодательные акты Саратовской области»
+Document type: Закон
+Number: 97-ЗСО
+Date signed: 2020-07-27
+Publication date: 2020-07-30
+Publication number: 6400202007300016
+Signing body: Саратовская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/6400202007300016

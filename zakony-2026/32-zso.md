@@ -1,0 +1,8 @@
+# О внесении изменений в статью 1 Закона Саратовской области «О праздниках и памятных датах Саратовской области»
+Document type: Закон
+Number: 32-ЗСО
+Date signed: 2026-04-28
+Publication date: 2026-04-30
+Publication number: 6400202604300019
+Signing body: Саратовская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/6400202604300019

@@ -1,0 +1,110 @@
+{
+ "generated": "2026-11-24T14:54:04Z",
+ "latest": {
+  "pravo-saratov|russia/saratov/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1536,
+    "current": 1522,
+    "gone": 0,
+    "held": 1522,
+    "newest_in_repo": "2026-10-21",
+    "pending": 14,
+    "repo": 1522,
+    "source_in_scope": 1536
+   },
+   "check_id": "ru-pravo-saratov-20261124T144946Z",
+   "commits": {
+    "count": 4,
+    "from": "0a84fe56a10245afa38fa22793ff6c1512264556",
+    "to": "018c30e4b687309bf67c52112297d67386319178"
+   },
+   "corpus": "russia/saratov/acts",
+   "error": null,
+   "finished": "2026-11-24T14:54:04Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region64: 1536 law-type documents listed (every page read); 1522 held here; 14 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "6400202611030014",
+     "6400202611030015",
+     "6400202611030016",
+     "6400202611030017",
+     "6400202611030018",
+     "6400202611050001",
+     "6400202611090001",
+     "6400202611090002",
+     "6400202611090003",
+     "6400202611090004",
+     "6400202611090006",
+     "6400202611090016",
+     "6400202611090017",
+     "6400202611090019"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 11,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "6400202611030014",
+     "6400202611030015",
+     "6400202611030016",
+     "6400202611030017",
+     "6400202611030018",
+     "6400202611050001",
+     "6400202611090001",
+     "6400202611090002",
+     "6400202611090003",
+     "6400202611090004",
+     "6400202611090006",
+     "6400202611090016",
+     "6400202611090017",
+     "6400202611090019"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1536 law-type documents in block region64; newest published 2026-11-09",
+   "source": "pravo-saratov",
+   "started": "2026-11-24T14:49:46Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 3,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 302,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}

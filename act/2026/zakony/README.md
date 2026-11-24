@@ -1,6 +1,6 @@
 # Saratov Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 21 versions, from 2026-02-02 (latest in force: 2026-10-21) · <http://publication.pravo.gov.ru/documents/block/region64>
+Законы 2026 · 24 versions, from 2026-02-02 (latest in force: 2026-11-09) · <http://publication.pravo.gov.ru/documents/block/region64>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -71,5 +71,19 @@
 | Закон № 69-ЗСО | [69-zso.md](69-zso.md) | 1 | 2026-10-02 |
 | Закон № 7-ЗСО | [7-zso.md](7-zso.md) | 1 | 2026-02-12 |
 | Закон № 70-ЗСО | [70-zso.md](70-zso.md) | 1 | 2026-10-21 |
+| Закон № 71-ЗСО | [71-zso.md](71-zso.md) | 1 | 2026-11-03 |
+| Закон № 72-ЗСО | [72-zso.md](72-zso.md) | 1 | 2026-11-03 |
+| Закон № 73-ЗСО | [73-zso.md](73-zso.md) | 1 | 2026-11-03 |
+| Закон № 74-ЗСО | [74-zso.md](74-zso.md) | 1 | 2026-11-05 |
+| Закон № 75-ЗСО | [75-zso.md](75-zso.md) | 1 | 2026-11-03 |
+| Закон № 76-ЗСО | [76-zso.md](76-zso.md) | 1 | 2026-11-03 |
+| Закон № 77-ЗСО | [77-zso.md](77-zso.md) | 1 | 2026-11-09 |
+| Закон № 78-ЗСО | [78-zso.md](78-zso.md) | 1 | 2026-11-09 |
+| Закон № 79-ЗСО | [79-zso.md](79-zso.md) | 1 | 2026-11-09 |
 | Закон № 8-ЗСО | [8-zso.md](8-zso.md) | 1 | 2026-02-12 |
+| Закон № 80-ЗСО | [80-zso.md](80-zso.md) | 1 | 2026-11-09 |
+| Закон № 81-ЗСО | [81-zso.md](81-zso.md) | 1 | 2026-11-09 |
+| Закон № 82-ЗСО | [82-zso.md](82-zso.md) | 1 | 2026-11-09 |
+| Закон № 83-ЗСО | [83-zso.md](83-zso.md) | 1 | 2026-11-09 |
+| Закон № 84-ЗСО | [84-zso.md](84-zso.md) | 1 | 2026-11-09 |
 | Закон № 9-ЗСО | [9-zso.md](9-zso.md) | 1 | 2026-03-05 |

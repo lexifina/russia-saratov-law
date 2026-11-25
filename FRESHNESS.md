@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Saratov Oblast: Official Internet Portal of Legal Information (region64) · `russia/saratov/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 14:54 UTC**.
-- Acts held here: 1 522; current at the source: 1 522; changed at the source since the version held here: 14; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 06:34 UTC**.
+- Acts held here: 1 536; current at the source: 1 536; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).

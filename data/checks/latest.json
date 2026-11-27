@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:19:47Z",
+ "generated": "2026-11-27T06:11:47Z",
  "latest": {
   "pravo-saratov|russia/saratov/acts": {
    "attempt": 1,
@@ -13,34 +13,25 @@
    },
    "census": {
     "checked": 1540,
-    "current": 1536,
+    "current": 1540,
     "gone": 0,
-    "held": 1536,
-    "newest_in_repo": "2026-11-09",
-    "pending": 4,
-    "repo": 1536,
+    "held": 1540,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1540,
     "source_in_scope": 1540
    },
-   "check_id": "ru-pravo-saratov-20261126T055829Z",
-   "commits": {
-    "count": 2,
-    "from": "dfa37ecf44616af60ecbab46068c4baf3f432604",
-    "to": "7092e09897be4d4c117f0d5cf5faa58b747cbfc0"
-   },
+   "check_id": "ru-pravo-saratov-20261127T055234Z",
+   "commits": null,
    "corpus": "russia/saratov/acts",
    "error": null,
-   "finished": "2026-11-26T05:59:26Z",
+   "finished": "2026-11-27T05:53:16Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region64: 1540 law-type documents listed (every page read); 1536 held here; 4 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region64: 1540 law-type documents listed (every page read); 1540 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "6400202611250001",
-     "6400202611250002",
-     "6400202611250003",
-     "6400202611250004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -48,31 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "6400202611250001",
-     "6400202611250002",
-     "6400202611250003",
-     "6400202611250004"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1540 law-type documents in block region64; newest published 2026-11-25",
    "source": "pravo-saratov",
-   "started": "2026-11-26T05:58:29Z",
+   "started": "2026-11-27T05:52:34Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
